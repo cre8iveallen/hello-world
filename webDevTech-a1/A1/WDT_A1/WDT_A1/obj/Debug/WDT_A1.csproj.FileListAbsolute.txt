@@ -1,0 +1,6 @@
+C:\Users\Allen Cho\Documents\GitHub\webDevTech-a1\A1\WDT_A1\WDT_A1\bin\Debug\WDT_A1.exe.config
+C:\Users\Allen Cho\Documents\GitHub\webDevTech-a1\A1\WDT_A1\WDT_A1\bin\Debug\WDT_A1.exe
+C:\Users\Allen Cho\Documents\GitHub\webDevTech-a1\A1\WDT_A1\WDT_A1\bin\Debug\WDT_A1.pdb
+C:\Users\Allen Cho\Documents\GitHub\webDevTech-a1\A1\WDT_A1\WDT_A1\obj\Debug\WDT_A1.csprojResolveAssemblyReference.cache
+C:\Users\Allen Cho\Documents\GitHub\webDevTech-a1\A1\WDT_A1\WDT_A1\obj\Debug\WDT_A1.exe
+C:\Users\Allen Cho\Documents\GitHub\webDevTech-a1\A1\WDT_A1\WDT_A1\obj\Debug\WDT_A1.pdb
